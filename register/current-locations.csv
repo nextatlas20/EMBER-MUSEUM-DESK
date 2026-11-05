@@ -1,0 +1,7 @@
+artifact_id,collection,condition,location,custodian,last_movement_id,last_occurred_at,public_access
+AR-101,Coastal,STABLE,Vault-A,Mira,MV-001,2026-09-14T09:00:00Z,NO
+AR-102,Coastal,FRAGILE,Vault-B,Oren,MV-009,2026-09-14T15:00:00Z,NO
+AR-103,Highland,STABLE,UNMOVED,,,,NO
+AR-104,Highland,STABLE,Gallery-3,Quin,MV-010,2026-09-14T16:00:00Z,YES
+AR-105,River,FRAGILE,UNMOVED,,,,NO
+AR-106,River,STABLE,Gallery-2,Sol,MV-008,2026-09-14T14:00:00Z,YES
