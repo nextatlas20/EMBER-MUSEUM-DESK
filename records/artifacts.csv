@@ -1,0 +1,7 @@
+artifact_id,collection,material,condition,insured_value
+AR-101,Coastal,ceramic,STABLE,1200
+AR-102,Coastal,glass,FRAGILE,850
+AR-103,Highland,textile,STABLE,640
+AR-104,Highland,metal,STABLE,2100
+AR-105,River,paper,FRAGILE,300
+AR-106,River,wood,STABLE,1500

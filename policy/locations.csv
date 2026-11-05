@@ -1,0 +1,10 @@
+location,collection,public_access
+Vault-A,Coastal,NO
+Vault-B,Coastal,NO
+Gallery-1,Coastal,YES
+Vault-C,Highland,NO
+Vault-D,Highland,NO
+Gallery-3,Highland,YES
+Vault-E,River,NO
+Vault-F,River,NO
+Gallery-2,River,YES
